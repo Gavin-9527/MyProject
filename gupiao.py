@@ -1,5 +1,5 @@
 import tushare as ts
-ts.set_token('8d07aac9a2a04897ad28aeb384d107a2f9162fc9882552efc7eb9d30')
+ts.set_token('自己的token')
 #pro = ts.pro_api()
 #获取股票基本信息
 #data = pro.stock_basic(exchange='', list_status='L', fields='ts_code,symbol,name,area,industry,list_date')
